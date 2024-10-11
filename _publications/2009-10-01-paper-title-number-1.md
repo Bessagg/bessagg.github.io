@@ -3,7 +3,14 @@ title: "Paper Title Number 1"
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'In this study, we propose to
+forecast medium-term reservoir production without model calibration. More precisely, we combine the data of multiple
+pre-existent models which represent the previous uncertainty associated with the reservoir’s parameters. A weight is then
+associated with each model regarding its relevance in forecasting production for the next time step. An optimization
+algorithm that minimizes a function based on the error of the projection of oil and water production in relation to the real
+reservoir data is considered for the computation of the weights. This strategy is then validated through a case study for a
+set of 50 realizations of the Olympus synthetic reservoir model. The findings indicate an average prediction error below
+5% for different realizations taken as reference.'
 date: 2009-10-01
 venue: 'Journal 1'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
