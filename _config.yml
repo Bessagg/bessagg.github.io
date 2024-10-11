@@ -22,13 +22,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Rafael Bessa"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Data Scientist | ML Engineer"
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "Invisual"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "bessaraid@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
