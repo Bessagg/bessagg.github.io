@@ -21,14 +21,14 @@ ___
  ___ 
 
 ## Work Experience
-*Data Scientist Sr. @ Invisual Technology (_2022 - Present_)*
+*Data Scientist Sr. @ Invisual Technology (2022 - Present)*
 * AI to predict patient's clinical outcomes
 * XAI, (Shapley) to debug and interpret the model's decision making.
 * Developed an object detection model using YoLo to help medical equipment inventory tracking.
 * Deployed the AI solutions as API endpoints with FastAPI.
 * Monitored model performance and data shifts.
 
-*Plan and Control Analyst @ Sicoob (_2021 - 2022_)*
+*Plan and Control Analyst @ Sicoob (2021 - 2022)*
 * Sized the Call Center operation.
 * Developed dashboards for different managers (PowerBI).
 * Managed datamodels in PowerBI.
