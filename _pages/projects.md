@@ -15,11 +15,11 @@ redirect_from:
 
 
 ---
-## Patient's Clinical Outcome Prediction
+## Patient's Clinical Outcome Prediction (2023)
 - Objective: Accelerate treatment for high-risk patients by leveraging real-time data. Lab results often indicate risk before the next scheduled consultation. The model runs 24/7, providing instant alerts to doctors, speeding up intervention.
 
 ---
-## Surgical Instruments Detection with Yolo
+## Surgical Instruments Detection with Yolo (2024)
  -	The objective was to automate inventory managment with computer vision. A task that took over 30minutes, was done in less than 10 seconds using our AI app and phone camera.
  -	The model identified missing components.
  -	Some components (screws) were identified by their positions in the box, different clustering algorithms were used to split components in regions, rows and columns, so the exact component's ID was identified.
