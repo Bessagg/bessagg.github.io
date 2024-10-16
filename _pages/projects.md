@@ -12,12 +12,11 @@ redirect_from:
 - [Surgical Instruments Detection with Yolo](#surgical-detection)
 - [Model aggregation to forecast reservoir production](#forecast-oil-production)
 - [Car suspension design](#apuama)
----
+
 
 ---
 ## Patient's Clinical Outcome Prediction
 - Objective: Accelerate treatment for high-risk patients by leveraging real-time data. Lab results often indicate risk before the next scheduled consultation. The model runs 24/7, providing instant alerts to doctors, speeding up intervention.
-- 
 
 ---
 ## Surgical Instruments Detection with Yolo
