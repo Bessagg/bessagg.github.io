@@ -44,7 +44,7 @@ ___
 ___
 
 ## Publication
-[ublications](https://bessagg.github.io/academicpages.github.io/publications/)
+[Publications](https://bessagg.github.io/academicpages.github.io/publications/)
 ___
 
 
