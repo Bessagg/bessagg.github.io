@@ -46,7 +46,7 @@ redirect_from:
 
 ---
 
-## Languages <img src="/images/cv/004-job_interview.png" width="48" style="vertical-align: middle;">
+## <img src="/images/cv/004-job_interview.png" width="48" style="vertical-align: middle;">Languages 
 * Portuguese (Native)
 * English (Fluent)
 * Spanish (Intermediate)
