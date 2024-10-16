@@ -18,10 +18,7 @@ Description
  -	The model identified missing components.
  -	Some components (screws) were identified by their positions in the box, different clustering algorithms were used to split components in regions, rows and columns, so the exact component's ID was identified.
  -	The components and the containers were made of aluminium, which is reflective and yields low contrast. So I tested different light conditions, camera position and opencv morphological transformations. 
-- Yolo
-- Segmentation Models
-- Clustering algorithms
-- FastAPI
+- *Yolo/Tensorflow/Segmentation Models/Clustering algorithms/FastAPI
 
 ---
 ## Model aggregation to forecast medium-term reservoir production [2022]
