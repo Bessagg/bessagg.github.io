@@ -9,56 +9,44 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+# Data Scientist | ML Engineer
+- :mailbox:Reach me here: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-bessa/)
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+#### Technical Skills: Python, SQL, AWS
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+## Education
+M.S., PCMEC,                       University of Brasilia              _2025_     
+B.S., Mechanical Engineering,      University of Brasilia              _2022_    
+IB,                               Ashcroft Technology Academy         _2012_     
+  
+## Work Experience
+**Data Scientist Sr. @ Invisual Technology (_2022 - Present_)**
+- AI to predict patient's clinical outcomes
+- XAI, (Shapley) to debug and interpret the model's decision making.
+- Developed an object detection model using YoLo to help medical equipment inventory tracking.
+- Deployed the AI solutions as API endpoints with FastAPI.
+- Monitored model performance and data shifts.
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+**Plan and Control Analyst @ Sicoob (_2021 - 2022_)**
+- Sized the Call Center operation.
+- Developed dashboards for different managers (PowerBI).
+- Managed datamodels in PowerBI.
+- Web-scrapped additional data (Python).
+- Automated multiple processes (UiPath, Power Automate and Python).
+- Supervised the deployment of RPA projects (UiPath).
+- Mentored new interns.
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+## Projects
+**M.S thesis**
+- An explainable model for predicting porosity in _freeze-casting_.
+
+**Ensemble models to forecast production in an oil reservoir**
+- [Publication](https://doi.org/10.48072/2525-7579.rog.2022.036), presented at the Rio Oil and Gas congress.
+- Here I used python, unittests and optimization algorithms to search for the global minima of a selected loss function.
+
+**Project Leader in Apuama Racing**
+- FSAE team
+- Simulated vehicle dynamics for the suspension design.
+- Program to calculate force distribution for a given tire input force.
+- Program to simulate vehicle behaviour in braking, acelleration and in corner.
