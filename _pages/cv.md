@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-# Data Scientist | ML Engineer
-- :mailbox:Reach me here: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-bessa/)
 ___
 # Table of Contents
 - [Work Experience](#work-experience)
