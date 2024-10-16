@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-___
+---
 
 # Table of Contents
 - [Work Experience](#work-experience)
@@ -18,8 +18,7 @@ ___
 - [Languages](#languages)
 - [Publications](#publications)
 
- ___ 
-
+---
 ## Work Experience
 *Data Scientist Sr. @ Invisual Technology (2022 - Present)*
 * AI to predict patient's clinical outcomes
@@ -37,16 +36,13 @@ ___
 * Supervised the deployment of RPA projects (UiPath).
 * Mentored new interns.
 
-___
-
+---
 ## Projects
 [Projects](https://bessagg.github.io/academicpages.github.io/projects/)
-___
-
+---
 ## Publication
 [Publications](https://bessagg.github.io/academicpages.github.io/publications/)
-___
-
+---
 
 <img src="https://github.com/Bessagg/academicpages.github.io/blob/master/images/cv/004-job_interview.png?raw=true" width="48"> 
 
