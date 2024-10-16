@@ -54,15 +54,17 @@ ___
 * Portuguese (Native)
 * English (Fluent)
 * Spanish (Intermediate)
-___
+
+---
+
 ## Technical Skills
-___
+
+---
+
 ## Education
-M.S., PCMEC,                       University of Brasilia              _2025_     
-B.S., Mechanical Engineering,      University of Brasilia              _2022_    
-IB,                                Ashcroft Technology Academy         _2012_     
+M.S., PCMEC,                       University of Brasilia              *2025*     
+B.S., Mechanical Engineering,      University of Brasilia              *2022*    
+IB,                                Ashcroft Technology Academy         *2012*
 
-___
-
-
+---
 <div>Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
