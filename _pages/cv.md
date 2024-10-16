@@ -46,9 +46,7 @@ redirect_from:
 
 ---
 
-<img src="https://github.com/Bessagg/academicpages.github.io/blob/master/images/cv/004-job_interview.png?raw=true" width="48"> 
-
-## Languages 
+## Languages <img src="/images/cv/004-job_interview.png" width="48" style="vertical-align: middle;">
 * Portuguese (Native)
 * English (Fluent)
 * Spanish (Intermediate)
