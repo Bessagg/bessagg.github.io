@@ -53,7 +53,7 @@ redirect_from:
 - Program to simulate vehicle behaviour in braking, acelleration and in corner.
 
 
-<img src="images/cv/004-job_interview.png" width="48">
+![](/images/cv/004-job_interview.png){: width="48"}
 ## Languages 
 
 
