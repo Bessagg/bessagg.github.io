@@ -7,19 +7,11 @@ redirect_from:
   - /projects
 ---
 # Table of Contents
-- [Fracture Characterisation and Geometry for Motion Planning](#fracture-characterisation-and-geometry-for-motion-planning)
-- [Fracture Detection and Localisation](#fracture-detection-and-localisation)
-- [Bilateral Teleoperation Franka Panda and Geomagic](#bilateral-teleoperation-franka-panda-and-geomagic)
-- [Hololyo](#hololyo)
-- [Nao Interface](#nao-interface)
-- [The Little Knight](#the-little-knight)
 
 
 ### Patient's Clinical Outcome Prediction
 Description
 
-
-include content
 
 ### Surgical Instruments Detection with Yolo
 The objective was to automate inventory managment with computer vision. A task that took over 30minutes, was done in less than 10 seconds using our AI app.
