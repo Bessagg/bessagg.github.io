@@ -40,7 +40,7 @@ ___
 ___
 
 ## Projects
-[Projects][https://bessagg.github.io/academicpages.github.io//projects/]
+[Projects](https://bessagg.github.io/academicpages.github.io/projects/)
 ___
 
 <img src="https://github.com/Bessagg/academicpages.github.io/blob/master/images/cv/004-job_interview.png?raw=true" width="48"> 
