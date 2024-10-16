@@ -13,21 +13,15 @@ redirect_from:
 - :mailbox:Reach me here: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-bessa/)
 
 # Table of Contents
-- [Employment](#employment)
-- [Education](#education)
-- [Awards](#awards)
-- [Portfolio](#portfolio)
+- [Work Experience](#work-experience)
+- [Projects](#projects)
 - [Technical Skills](#technical-skills)
 - [Languages](#languages)
 - [Publications](#publications)
-- 
-
-
-
 
   
 ## Work Experience
-**Data Scientist Sr. @ Invisual Technology (_2022 - Present_)**
+*Data Scientist Sr. @ Invisual Technology (_2022 - Present_)*
 - AI to predict patient's clinical outcomes
 - XAI, (Shapley) to debug and interpret the model's decision making.
 - Developed an object detection model using YoLo to help medical equipment inventory tracking.
@@ -45,14 +39,14 @@ redirect_from:
 
   
 ## Projects
-**M.S thesis**
+*M.S thesis*
 - An explainable model for predicting porosity in _freeze-casting_.
 
 **Ensemble models to forecast production in an oil reservoir**
 - [Publication](https://doi.org/10.48072/2525-7579.rog.2022.036), presented at the Rio Oil and Gas congress.
 - Here I used python, unittests and optimization algorithms to search for the global minima of a selected loss function.
 
-**Project Leader in Apuama Racing**
+*Project Leader in Apuama Racing*
 - FSAE team
 - Simulated vehicle dynamics for the suspension design.
 - Program to calculate force distribution for a given tire input force.
@@ -67,7 +61,7 @@ redirect_from:
 * English (Fluent)
 * Spanish (Intermediate)
 
-#### Technical Skills: Python, SQL, AWS
+## Technical Skills
 
 ## Education
 M.S., PCMEC,                       University of Brasilia              _2025_     
