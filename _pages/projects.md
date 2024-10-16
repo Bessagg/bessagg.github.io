@@ -28,7 +28,7 @@ redirect_from:
 
 ---
 ## Model aggregation to forecast medium-term reservoir production [2022]
- -	This was my scientific initiation project with a paper publishing in on of the biggest energy congress of the world.
+ -	Scientific initiation project, with a published paper in on of the biggest energy congress of the world, Rio Oil and Gas.
  -	I worked in Fortaleza's research group, STORMS. We used realizations of a benchmark resevouir model "OLYMPUS" as models to forecast production.
  -	We associated weights to each model and tested different optimization alogirthms to minimize a developed loss function.
  -	This strategy was validated with an average prediction error below 5%;
