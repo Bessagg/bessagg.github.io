@@ -11,7 +11,7 @@ redirect_from:
 
 # Data Scientist | ML Engineer
 - :mailbox:Reach me here: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-bessa/)
-
+___
 # Table of Contents
 - [Work Experience](#work-experience)
 - [Projects](#projects)
@@ -19,7 +19,7 @@ redirect_from:
 - [Languages](#languages)
 - [Publications](#publications)
 
-  
+ ___ 
 ## Work Experience
 *Data Scientist Sr. @ Invisual Technology (_2022 - Present_)*
 - AI to predict patient's clinical outcomes
@@ -37,7 +37,7 @@ redirect_from:
 - Supervised the deployment of RPA projects (UiPath).
 - Mentored new interns.
 
-  
+___  
 ## Projects
 *M.S thesis*
 - An explainable model for predicting porosity in _freeze-casting_.
@@ -52,7 +52,7 @@ redirect_from:
 - Program to calculate force distribution for a given tire input force.
 - Program to simulate vehicle behaviour in braking, acelleration and in corner.
 
-
+___
 <img src="/images/cv/004-job_interview.png" width="48">
 
 ## Languages 
@@ -61,9 +61,9 @@ redirect_from:
 * Portuguese (Native)
 * English (Fluent)
 * Spanish (Intermediate)
-
+___
 ## Technical Skills
-
+___
 ## Education
 M.S., PCMEC,                       University of Brasilia              _2025_     
 B.S., Mechanical Engineering,      University of Brasilia              _2022_    
