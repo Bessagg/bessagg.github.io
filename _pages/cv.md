@@ -37,9 +37,10 @@ ___
 
 ___  
 ## Projects
-
+[Projects][https://bessagg.github.io/academicpages.github.io//projects/]
 ___
-![](/images/cv/004-job_interview.png){: width="48"}
+
+<img src="https://github.com/Bessagg/academicpages.github.io/blob/master/images/cv/004-job_interview.png?raw=true" width="48"> 
 
 ## Languages 
 * Portuguese (Native)
