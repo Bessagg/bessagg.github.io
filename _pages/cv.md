@@ -28,7 +28,7 @@ ___
 * Deployed the AI solutions as API endpoints with FastAPI.
 * Monitored model performance and data shifts.
 
-**Plan and Control Analyst @ Sicoob (_2021 - 2022_)**
+*Plan and Control Analyst @ Sicoob (_2021 - 2022_)*
 * Sized the Call Center operation.
 * Developed dashboards for different managers (PowerBI).
 * Managed datamodels in PowerBI.
