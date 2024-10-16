@@ -12,12 +12,19 @@ redirect_from:
 # Data Scientist | ML Engineer
 - :mailbox:Reach me here: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-bessa/)
 
-#### Technical Skills: Python, SQL, AWS
+# Table of Contents
+- [Employment](#employment)
+- [Education](#education)
+- [Awards](#awards)
+- [Portfolio](#portfolio)
+- [Technical Skills](#technical-skills)
+- [Languages](#languages)
+- [Publications](#publications)
+- 
 
-## Education
-M.S., PCMEC,                       University of Brasilia              _2025_     
-B.S., Mechanical Engineering,      University of Brasilia              _2022_    
-IB,                               Ashcroft Technology Academy         _2012_     
+
+
+
   
 ## Work Experience
 **Data Scientist Sr. @ Invisual Technology (_2022 - Present_)**
@@ -50,3 +57,19 @@ IB,                               Ashcroft Technology Academy         _2012_
 - Simulated vehicle dynamics for the suspension design.
 - Program to calculate force distribution for a given tire input force.
 - Program to simulate vehicle behaviour in braking, acelleration and in corner.
+
+
+<img src="images/cv/004-job_interview.png" width="48">
+## Languages 
+
+
+* Portuguese (Native)
+* English (Fluent)
+* Spanish (Intermediate)
+
+#### Technical Skills: Python, SQL, AWS
+
+## Education
+M.S., PCMEC,                       University of Brasilia              _2025_     
+B.S., Mechanical Engineering,      University of Brasilia              _2022_    
+IB,                               Ashcroft Technology Academy         _2012_     
