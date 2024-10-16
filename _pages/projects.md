@@ -6,7 +6,13 @@ author_profile: true
 redirect_from:
   - /projects
 ---
+
 # Table of Contents
+- [Patient's Clinical Outcome Prediction](#patient-outcome-prediction)
+- [Surgical Instruments Detection with Yolo](#surgical-detection)
+- [Model aggregation to forecast reservoir production](#forecast-oil-production)
+- [Car suspension design](#apuama)
+---
 
 ---
 ## Patient's Clinical Outcome Prediction
