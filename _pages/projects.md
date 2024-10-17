@@ -8,15 +8,10 @@ redirect_from:
 ---
 
 # Table of Contents
-- [Patient's Clinical Outcome Prediction](#patient-outcome-prediction)
 - [Surgical Instruments Detection with Yolo](#surgical-detection)
+- [Patient's Clinical Outcome Prediction](#patient-outcome-prediction)
 - [Model aggregation to forecast reservoir production](#forecast-oil-production)
 - [Car suspension design](#apuama)
-
-
----
-## Patient's Clinical Outcome Prediction (2023)
-- Objective: Accelerate treatment for high-risk patients by leveraging real-time data. Lab results often indicate risk before the next scheduled consultation. The model runs 24/7, providing instant alerts to doctors, speeding up intervention.
 
 ---
 ## Surgical Instruments Detection with Yolo (2024)
@@ -24,7 +19,13 @@ redirect_from:
  -	The model identified missing components.
  -	Some components (screws) were identified by their positions in the box, different clustering algorithms were used to split components in regions, rows and columns, so the exact component's ID was identified.
  -	The components and the containers were made of aluminium, which is reflective and yields low contrast. So I tested different light conditions, camera position and opencv morphological transformations. 
-- *Yolo/Tensorflow/Segmentation Models/Clustering algorithms/FastAPI
+ - *Yolo/Tensorflow/Segmentation Models/Clustering algorithms/FastAPI
+
+
+---
+## Patient's Clinical Outcome Prediction (2023)
+- Objective: Accelerate treatment for high-risk patients by leveraging real-time data. Lab results often indicate risk before the next scheduled consultation. The model runs 24/7, providing instant alerts to doctors, speeding up intervention.
+
 
 ---
 ## Model aggregation to forecast medium-term reservoir production [2022]
