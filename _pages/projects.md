@@ -35,6 +35,11 @@ redirect_from:
  -	This strategy was validated with an average prediction error below 5%;
 
 
+<p align="center">
+  <img src="https://github.com/Bessagg/academicpages.github.io/blob/master/_projects/model_agreg2.png?raw=true" alt="tiredata" width="300"/>
+</p>
+
+
 ## Car suspension design - Apuama Racing - FSAE (2018-2019)
 -	Used mathematical models to create vehicle simulations (point-mass-model, biclycle-model).
 -	Developed a Suspension distribution forces program in Matlab. We would use the maximum forces obtained in braking and cornering simulations to dimension and reduce mass of the suspension kunckle.
