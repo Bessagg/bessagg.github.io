@@ -24,6 +24,7 @@ redirect_from:
 ---
 ## Patient's Clinical Outcome Prediction (2023 --)
 - Objective: Accelerate treatment for high-risk patients by leveraging real-time data.
+- Developed, evaluated and monitored models for patient's clinical outcome prediction. Served APis that would be consumed in the app.
 - EHR (Electronic Health Record) data is continuously updated before the patient’s next scheduled consultation, potentially indicating risks in real-time. The model operates 24/7, delivering instant alerts to physicians and performing risk stratification, enabling faster interventions and improving patient outcomes.
 
 
