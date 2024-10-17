@@ -12,12 +12,12 @@ redirect_from:
 ### 👨‍💻About Me
 Data Scients | ML Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- :telescope: I am working with healthcare as a sr. data scientist at  [Invisual](https://www.invisual.com.br/)
+:telescope: I am working with healthcare as a sr. data scientist at  [Invisual](https://www.invisual.com.br/)
 
 
-- :computer: Pursuing a master's degree in predicting material porosity in freeze-casting with AI, at [UnB-PCMEC](http://pcmec.unb.br/index.php/pt/).
+:computer: Pursuing a master's degree in predicting material porosity in freeze-casting with AI, at [UnB-PCMEC](http://pcmec.unb.br/index.php/pt/).
 
-- :mailbox:Reach me here: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-bessa/)
+:mailbox:Reach me here: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-bessa/)
 
 
 ---
