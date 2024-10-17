@@ -17,9 +17,8 @@ redirect_from:
 ## Surgical Instruments Detection with Yolo (2024 --)
  -	The objective was to automate inventory managment with computer vision. A task that took over 30minutes, was done in less than 10 seconds using our AI app and phone camera.
  -	The model identified missing components.
- -	Some components (screws) were identified by their positions in the box, different clustering algorithms were used to split components in regions, rows and columns, so the exact component's ID was identified.
- -	The components and the containers were made of aluminium, which is reflective and yields low contrast. So I tested different light conditions, camera position and opencv morphological transformations. 
- - *Yolo/Tensorflow/Segmentation Models/Clustering algorithms/FastAPI
+ -	Some components (screws) were identified by their positions in the box, different clustering algorithms were used to split components in regions, rows and columns, so the exact missing component's name was identified.
+ -	The components and the containers were made of aluminium, which is reflective and yields low contrast. So I tested different light conditions, camera position and opencv morphological transformations. Some of the crazy tests are displayed below:
 
 
 ---
