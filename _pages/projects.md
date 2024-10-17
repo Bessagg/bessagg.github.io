@@ -21,6 +21,37 @@ redirect_from:
  -	The components and the containers were made of aluminium, which is reflective and yields low contrast. So I tested different light conditions, camera position and opencv morphological transformations. Some of the crazy tests are displayed below:
 
 
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/Bessagg/academicpages.github.io/blob/master/_projects/detection_0.jpeg?raw=true" 
+           alt="detection_0" height="400"/>
+    </td>
+    <td>
+      <img src="https://github.com/Bessagg/academicpages.github.io/blob/master/_projects/detection_1.jpeg?raw=true" 
+           alt="detection_1" height="400"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github.com/Bessagg/academicpages.github.io/blob/master/_projects/detection_3.jpeg?raw=true" 
+           alt="detection_3" height="400"/>
+    </td>
+    <td>
+      <img src="https://github.com/Bessagg/academicpages.github.io/blob/master/_projects/detection_4.jpeg?raw=true" 
+           alt="detection_4" height="400"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github.com/Bessagg/academicpages.github.io/blob/master/_projects/detection_5.jpeg?raw=true" 
+           alt="detection_5" height="400"/>
+    </td>
+  </tr>
+</table>
+
+
+
 ---
 ## Patient's Clinical Outcome Prediction (2023 --)
 - Objective: Accelerate treatment for high-risk patients by leveraging real-time data.
