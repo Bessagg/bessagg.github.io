@@ -12,7 +12,7 @@ redirect_from:
 ### 👨‍💻About Me
 Data Scients | ML Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-:telescope: I am working with healthcare as a sr. data scientist at  [Invisual](https://www.invisual.com.br/)
+:telescope: I am working with healthcare as a sr. data scientist at  [Invisual](https://www.invisual.com.br/).
 
 
 :computer: Pursuing a master's degree in predicting material porosity in freeze-casting with AI, at [UnB-PCMEC](http://pcmec.unb.br/index.php/pt/).
