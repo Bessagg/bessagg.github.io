@@ -41,7 +41,11 @@ redirect_from:
 -	Project to reduce steering torque for better handling of the vehicle.
 -	Method to measure the car's center of gravity and validate simulations.
 
-![Hosier Tire Data](./_projects/hosier_tire_data.jpg)
-![Suspa 2](./_projects/suspa_2.jpeg)
+<p align="center">
+  <img src="https://github.com/Bessagg/academicpages.github.io/blob/master/_projects/hosier_tire_data.jpg?raw=true" alt="tiredata" width="500"/>
+</p>
 
+<p align="center">
+  <img src="https://github.com/Bessagg/academicpages.github.io/blob/master/_projects/suspa_1.jpeg?raw=true" alt="suspa" width="500"/>
+</p>
 --- 
