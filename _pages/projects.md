@@ -23,7 +23,8 @@ redirect_from:
 
 ---
 ## Patient's Clinical Outcome Prediction (2023 --)
-- Objective: Accelerate treatment for high-risk patients by leveraging real-time data. Lab results often indicate risk before the next scheduled consultation. The model runs 24/7, providing instant alerts to doctors, speeding up intervention.
+- Objective: Accelerate treatment for high-risk patients by leveraging real-time data.
+- EHR (eletronic health records) is often updated and may indicate risk before the next scheduled consultation. The model runs 24/7, providing instant alerts to doctors and risk stratification, speeding up intervention.
 
 
 <p align="center">
