@@ -26,6 +26,12 @@ redirect_from:
 - Objective: Accelerate treatment for high-risk patients by leveraging real-time data. Lab results often indicate risk before the next scheduled consultation. The model runs 24/7, providing instant alerts to doctors, speeding up intervention.
 
 
+<p align="center">
+  <img src="https://github.com/Bessagg/academicpages.github.io/blob/master/_projects/invisual_dash.jpeg?raw=true" alt="tiredata" width="800"/>
+</p>
+
+
+
 ---
 ## Model aggregation to forecast medium-term reservoir production (2020 - 2021)
  -	Scientific initiation project, with a published paper in on of the biggest energy congress of the world, Rio Oil and Gas.
