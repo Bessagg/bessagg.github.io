@@ -42,7 +42,7 @@ redirect_from:
 -	Method to measure the car's center of gravity and validate simulations.
 
 <p align="center">
-  <img src="https://github.com/Bessagg/academicpages.github.io/blob/master/_projects/hosier_tire_data.jpg?raw=true" alt="tiredata" height="300"/>
-  <img src="https://github.com/Bessagg/academicpages.github.io/blob/master/_projects/suspa_1.jpeg?raw=true" alt="suspa" height="300"/>
+  <img src="https://github.com/Bessagg/academicpages.github.io/blob/master/_projects/hosier_tire_data.jpg?raw=true" alt="tiredata" height="100"/>
+  <img src="https://github.com/Bessagg/academicpages.github.io/blob/master/_projects/suspa_1.jpeg?raw=true" alt="suspa" height="100"/>
 </p>
 --- 
