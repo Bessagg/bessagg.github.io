@@ -36,7 +36,7 @@ redirect_from:
 
 
 <p align="center">
-  <img src="https://github.com/Bessagg/academicpages.github.io/blob/master/_projects/model_agreg2.png?raw=true" alt="tiredata" width="300"/>
+  <img src="https://github.com/Bessagg/academicpages.github.io/blob/master/_projects/model_agreg2.png?raw=true" alt="tiredata" width="600"/>
 </p>
 
 
