@@ -63,7 +63,7 @@ redirect_from:
                 type="video/mp4">
         Your browser does not support the video tag.
       </video>
-      <div><b>(g)</b> - Solution Evolution Video</div>
+      <div><b>(g)</b> - App with solution</div>
     </td>
   </tr>
 </table>
