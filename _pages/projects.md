@@ -57,7 +57,7 @@ redirect_from:
     </td>
   </tr>
   <tr>
-    <td colspan="3" align="center">
+    <td align="center">
       <video height="300" controls>
         <source src="https://github.com/Bessagg/academicpages.github.io/blob/master/_projects/detection_video.mp4?raw=true" 
                 type="video/mp4">
@@ -65,9 +65,7 @@ redirect_from:
       </video>
       <div><b>(g)</b> - App with solution</div>
     </td>
-  </tr>
-  <tr>
-    <td colspan="3" align="center">
+    <td align="center">
       <video height="300" controls>
         <source src="https://github.com/Bessagg/academicpages.github.io/blob/master/_projects/detection_congress.mp4?raw=true" 
                 type="video/mp4">
@@ -75,8 +73,13 @@ redirect_from:
       </video>
       <div><b>(h)</b> - Placeholder for description</div> <!-- Placeholder for description -->
     </td>
+    <td align="center">
+      <!-- Empty cell for alignment -->
+    </td>
   </tr>
 </table>
+
+
 ---
 ## Patient's Clinical Outcome Prediction (2023 --)
 - Objective: Accelerate treatment for high-risk patients by leveraging real-time data.
