@@ -117,18 +117,18 @@ redirect_from:
 <table>
   <tr>
     <td>
-      <img src="https://github.com/Bessagg/academicpages.github.io/blob/master/_projects/hosier_tire_data.jpg?raw=true" alt="tiredata" height="400"/>
+      <img src="https://github.com/Bessagg/academicpages.github.io/blob/master/_projects/hosier_tire_data.jpg?raw=true" alt="tiredata" height="200"/>
     </td>
     <td>
-      <img src="https://github.com/Bessagg/academicpages.github.io/blob/master/_projects/suspa_1.jpeg?raw=true" alt="suspa" height="400"/>
+      <img src="https://github.com/Bessagg/academicpages.github.io/blob/master/_projects/suspa_1.jpeg?raw=true" alt="suspa" height="200"/>
     </td>
   </tr>
   <tr>
     <td>
-      <img src="https://github.com/Bessagg/academicpages.github.io/blob/master/_projects/suspa_3.jpeg?raw=true" alt="suspa_3" height="300"/>
+      <img src="https://github.com/Bessagg/academicpages.github.io/blob/master/_projects/suspa_3.jpeg?raw=true" alt="suspa_3" height="200"/>
     </td>
     <td>
-      <img src="https://github.com/Bessagg/academicpages.github.io/blob/master/_projects/suspa_4.jpeg?raw=true" alt="suspa_4" height="300"/>
+      <img src="https://github.com/Bessagg/academicpages.github.io/blob/master/_projects/suspa_4.jpeg?raw=true" alt="suspa_4" height="200"/>
     </td>
   </tr>
 </table>
