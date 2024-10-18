@@ -21,43 +21,53 @@ redirect_from:
  -	The components and the containers were made of aluminium, which is reflective and yields low contrast. So I tested different light conditions, camera position and opencv morphological transformations. Some of the crazy tests and the solution's evolution are displayed below.
 
 
+
 <table>
   <tr>
-    <td>
+    <td align="center">
       <img src="https://github.com/Bessagg/academicpages.github.io/blob/master/_projects/detection_0.jpeg?raw=true" 
-           alt="detection_0" height="400"/>
+           alt="detection_0" height="300"/>
+      <div><b>(a)</b></div>
     </td>
-    <td>
+    <td align="center">
       <img src="https://github.com/Bessagg/academicpages.github.io/blob/master/_projects/detection_1.jpeg?raw=true" 
-           alt="detection_1" height="400"/>
+           alt="detection_1" height="300"/>
+      <div><b>(b)</b></div>
+    </td>
+    <td align="center">
+      <img src="https://github.com/Bessagg/academicpages.github.io/blob/master/_projects/detection_01.jpeg?raw=true" 
+           alt="detection_01" height="300"/>
+      <div><b>(c)</b></div>
     </td>
   </tr>
   <tr>
-    <td>
+    <td align="center">
       <img src="https://github.com/Bessagg/academicpages.github.io/blob/master/_projects/detection_3.jpeg?raw=true" 
-           alt="detection_3" height="400"/>
+           alt="detection_3" height="300"/>
+      <div><b>(d)</b></div>
     </td>
-    <td>
+    <td align="center">
       <img src="https://github.com/Bessagg/academicpages.github.io/blob/master/_projects/detection_4.jpeg?raw=true" 
-           alt="detection_4" height="400"/>
+           alt="detection_4" height="300"/>
+      <div><b>(e)</b></div>
+    </td>
+    <td align="center">
+      <img src="https://github.com/Bessagg/academicpages.github.io/blob/master/_projects/detection_5.jpeg?raw=true" 
+           alt="detection_5" height="300"/>
+      <div><b>(f)</b></div>
     </td>
   </tr>
   <tr>
-    <td>
-      <img src="https://github.com/Bessagg/academicpages.github.io/blob/master/_projects/detection_5.jpeg?raw=true" 
-           alt="detection_5" height="400"/>
+    <td colspan="3" align="center">
+      <video width="600" controls>
+        <source src="https://github.com/Bessagg/academicpages.github.io/blob/master/_projects/detection_video.mp4?raw=true" 
+                type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+      <div><b>(g)</b> - Solution Evolution Video</div>
     </td>
   </tr>
 </table>
-
-### App Video  
-<p align="center">
-  <video height="400" controls>
-    <source src="https://github.com/Bessagg/academicpages.github.io/blob/master/_projects/detection_video.mp4?raw=true" 
-            type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-</p>
 
 
 
