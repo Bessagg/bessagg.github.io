@@ -55,50 +55,11 @@ redirect_from:
 
 ## Technical Skills
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Artificial%20Intelligence-0078D4?style=for-the-badge&logo=openai&logoColor=white" alt="AI" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Machine Learning" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Decision%20Trees-3A75C4?style=for-the-badge&logoColor=white" alt="Decision Trees" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Neural%20Networks-563D7C?style=for-the-badge&logo=pytorch&logoColor=white" alt="Neural Networks" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/SageMaker-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="SageMaker" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white" alt="Lambda" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/API-333333?style=for-the-badge&logo=postman&logoColor=orange" alt="API" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Yolo-00FFFF?style=for-the-badge&logo=yolo&logoColor=black" alt="Yolo" />
-    </td>
-  </tr>
-</table>
+
+| ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white) | ![SageMaker](https://img.shields.io/badge/SageMaker-232F3E?logo=amazon-aws&logoColor=white) | ![Lambda](https://img.shields.io/badge/Lambda-FF9900?logo=amazon-aws&logoColor=white) |
+|---------------------------------|------------------------------|----------------------------------|---------------------------------------|
+| ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) | ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white) | ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-0769AD?logo=codeforces&logoColor=white) |
+| ![Neural Networks](https://img.shields.io/badge/Neural%20Networks-FF5733?logo=artificial-intelligence&logoColor=white) | ![Object Detection](https://img.shields.io/badge/Object%20Detection-2980B9?logo=visual-studio-code&logoColor=white) | ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-8E44AD?logo=opencv&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) |
 
 ---
 
