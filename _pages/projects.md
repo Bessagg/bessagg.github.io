@@ -26,7 +26,7 @@ redirect_from:
     <td align="center">
       <img src="https://github.com/Bessagg/academicpages.github.io/blob/master/_projects/detection_0.jpeg?raw=true" 
            alt="detection_0" height="300"/>
-      <div><b>(a)</b> - Some strange results when I was playing with distortion correction, trying to fix the box's deformation, being suken in the center, which made it harder to group screws in columns/rows.</div> <!-- Placeholder for description -->
+      <div><b>(a)</b> - Some strange results when I was playing with distortion correction, trying to fix the box's deformation, being sunken in the center, which made it harder to group screws in columns/rows.</div> <!-- Placeholder for description -->
     </td>
     <td align="center">
       <img src="https://github.com/Bessagg/academicpages.github.io/blob/master/_projects/detection_1.jpeg?raw=true" 
@@ -64,6 +64,16 @@ redirect_from:
         Your browser does not support the video tag.
       </video>
       <div><b>(g)</b> - App with solution</div>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3" align="center">
+      <video height="300" controls>
+        <source src="https://github.com/Bessagg/academicpages.github.io/blob/master/_projects/detection_congress.mp4?raw=true" 
+                type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+      <div><b>(h)</b> - Placeholder for description</div> <!-- Placeholder for description -->
     </td>
   </tr>
 </table>
