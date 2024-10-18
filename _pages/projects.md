@@ -71,7 +71,7 @@ redirect_from:
                 type="video/mp4">
         Your browser does not support the video tag.
       </video>
-      <div><b>(h)</b> - Placeholder for description</div> <!-- Placeholder for description -->
+      <div><b>(h)</b> - Presented by Jhonson & Jhonson 's CEO in SOBRACIL 2024, videosurgery congress.</div> <!-- Placeholder for description -->
     </td>
     <td align="center">
       <!-- Empty cell for alignment -->
