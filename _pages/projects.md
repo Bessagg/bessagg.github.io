@@ -8,14 +8,14 @@ redirect_from:
 ---
 
 # Table of Contents
-- [Surgical Instruments Detection with Yolo](#surgical-detection)
+- [Surgical Instruments Detection with Custom Trainning](#surgical-detection)
 - [Patient's Clinical Outcome Prediction](#patient-outcome-prediction)
 - [Model aggregation to forecast reservoir production](#forecast-oil-production)
 - [Car suspension design](#apuama)
 
 ---
-## Surgical Instruments Detection with Yolo (2024 --)
- -	The objective was to automate inventory managment with computer vision. A task that took over 30minutes, was done in less than 10 seconds using our AI app and phone camera.
+## Surgical Instruments Detection with Custom Trainning (2024 --)
+ -	The objective was to automate inventory managment with computer vision. A task that took over 20minutes, was done in a few seconds using our AI app and phone camera.
  -	The model identified missing components. YoLo model was used with custom training.
  -	Some components (screws) were identified by their positions in the box, different clustering algorithms were used to split components in regions, rows and columns, so the exact missing component's name was identified.
  -	The components and the containers were made of aluminium, which is reflective and yields low contrast. So I tested different light conditions, camera position and opencv morphological transformations. Some of the crazy tests and the solution's evolution are displayed below.
