@@ -109,9 +109,10 @@ redirect_from:
 
 ## Car suspension design - Apuama Racing - FSAE (2018 - 2019)
 -	Used mathematical models to create vehicle simulations (point-mass-model, biclycle-model).
+-	Used Tire Models to interpolate new data points from the tire's data.
 -	Developed a Suspension distribution forces program in Matlab. We would use the maximum forces obtained in braking and cornering simulations to dimension and reduce mass of the suspension.
 -	Project to reduce steering torque for better handling of the vehicle.
--	Method to measure the car's center of gravity and validate simulations.
+-	Method to measure the car's center of gravity and validate design.
 
 <table>
   <tr>
