@@ -122,7 +122,16 @@ redirect_from:
       <img src="https://github.com/Bessagg/academicpages.github.io/blob/master/_projects/suspa_1.jpeg?raw=true" alt="suspa" height="400"/>
     </td>
   </tr>
+  <tr>
+    <td>
+      <img src="https://github.com/Bessagg/academicpages.github.io/blob/master/_projects/suspa_3.jpeg?raw=true" alt="suspa_3" height="400"/>
+    </td>
+    <td>
+      <img src="https://github.com/Bessagg/academicpages.github.io/blob/master/_projects/suspa_4.jpeg?raw=true" alt="suspa_4" height="400"/>
+    </td>
+  </tr>
 </table>
+
 
 
 --- 
