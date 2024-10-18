@@ -58,7 +58,7 @@ redirect_from:
   </tr>
   <tr>
     <td colspan="3" align="center">
-      <video width="600" controls>
+      <video height="300" controls>
         <source src="https://github.com/Bessagg/academicpages.github.io/blob/master/_projects/detection_video.mp4?raw=true" 
                 type="video/mp4">
         Your browser does not support the video tag.
