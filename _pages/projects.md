@@ -26,7 +26,7 @@ redirect_from:
     <td align="center">
       <img src="https://github.com/Bessagg/academicpages.github.io/blob/master/_projects/detection_0.jpeg?raw=true" 
            alt="detection_0" height="300"/>
-      <div><b>(a)</b> - Some strange results when I was playing with distortion correction. The box had a deformation, being suken in the center</div> <!-- Placeholder for description -->
+      <div><b>(a)</b> - Some strange results when I was playing with distortion correction, trying to fix the box's deformation, being suken in the center, which made it harder to group screws in columns/rows.</div> <!-- Placeholder for description -->
     </td>
     <td align="center">
       <img src="https://github.com/Bessagg/academicpages.github.io/blob/master/_projects/detection_1.jpeg?raw=true" 
