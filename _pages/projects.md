@@ -26,34 +26,34 @@ redirect_from:
     <td align="center">
       <img src="https://github.com/Bessagg/academicpages.github.io/blob/master/_projects/detection_0.jpeg?raw=true" 
            alt="detection_0" height="300"/>
-      <div><b>(a)</b> - [Some strange results when I was playing with distortion correction. The box had a deformation, being suken in the center]</div> <!-- Placeholder for description -->
+      <div><b>(a)</b> - Some strange results when I was playing with distortion correction. The box had a deformation, being suken in the center</div> <!-- Placeholder for description -->
     </td>
     <td align="center">
       <img src="https://github.com/Bessagg/academicpages.github.io/blob/master/_projects/detection_1.jpeg?raw=true" 
            alt="detection_1" height="300"/>
-      <div><b>(b)</b> - [Initial setup to control ligh conditions and detections with opencv.]</div> <!-- Placeholder for description -->
+      <div><b>(b)</b> - Initial setup to control ligh conditions and detections with opencv.</div> <!-- Placeholder for description -->
     </td>
     <td align="center">
       <img src="https://github.com/Bessagg/academicpages.github.io/blob/master/_projects/detection_01.jpeg?raw=true" 
            alt="detection_01" height="300"/>
-      <div><b>(c)</b> - [Transformations in opencv to deal with the lack of contrast]</div> <!-- Placeholder for description -->
+      <div><b>(c)</b> - Transformations in opencv to deal with the lack of contrast</div> <!-- Placeholder for description -->
     </td>
   </tr>
   <tr>
     <td align="center">
       <img src="https://github.com/Bessagg/academicpages.github.io/blob/master/_projects/detection_3.jpeg?raw=true" 
            alt="detection_3" height="300"/>
-      <div><b>(d)</b> - [Great results with a light panel.]</div> <!-- Placeholder for description -->
+      <div><b>(d)</b> - Great results with a light panel.</div> <!-- Placeholder for description -->
     </td>
     <td align="center">
       <img src="https://github.com/Bessagg/academicpages.github.io/blob/master/_projects/detection_4.jpeg?raw=true" 
            alt="detection_4" height="300"/>
-      <div><b>(e)</b> - [Achieved great results in natural light conditions.]</div> <!-- Placeholder for description -->
+      <div><b>(e)</b> - Achieved great results in natural light conditions.</div> <!-- Placeholder for description -->
     </td>
     <td align="center">
       <img src="https://github.com/Bessagg/academicpages.github.io/blob/master/_projects/detection_5.jpeg?raw=true" 
            alt="detection_5" height="300"/>
-      <div><b>(f)</b> - [Detections with a segmentation model.]</div> <!-- Placeholder for description -->
+      <div><b>(f)</b> - Detections with a segmentation model.</div> <!-- Placeholder for description -->
     </td>
   </tr>
   <tr>
