@@ -54,12 +54,50 @@ redirect_from:
 ---
 
 ## Technical Skills
-
-
-| ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white) | ![SageMaker](https://img.shields.io/badge/SageMaker-232F3E?logo=amazon-aws&logoColor=white) | ![Lambda](https://img.shields.io/badge/Lambda-FF9900?logo=amazon-aws&logoColor=white) |
-|---------------------------------|------------------------------|----------------------------------|---------------------------------------|
-| ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) | ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white) | ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-0769AD?logo=codeforces&logoColor=white) |
-| ![Neural Networks](https://img.shields.io/badge/Neural%20Networks-FF5733?logo=artificial-intelligence&logoColor=white) | ![Object Detection](https://img.shields.io/badge/Object%20Detection-2980B9?logo=visual-studio-code&logoColor=white) | ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-8E44AD?logo=opencv&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) |
+<table>
+  <tr align="center">
+    <td>
+      <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white"/>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/SageMaker-232F3E?logo=amazon-aws&logoColor=white"/>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Lambda-FF9900?logo=amazon-aws&logoColor=white"/>
+    </td>
+  </tr>
+  <tr align="center">
+    <td>
+      <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white"/>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"/>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white"/>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Machine%20Learning-0769AD?logo=codeforces&logoColor=white"/>
+    </td>
+  </tr>
+  <tr align="center">
+    <td>
+      <img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=power-bi&logoColor=black"/>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Object%20Detection-2980B9?logo=visual-studio-code&logoColor=white"/>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Computer%20Vision-8E44AD?logo=opencv&logoColor=white"/>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
