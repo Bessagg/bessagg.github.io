@@ -99,6 +99,7 @@ redirect_from:
  -	Scientific initiation project, with a published paper in on of the biggest energy congress of the world, Rio Oil and Gas.
  -	I worked at Fortaleza's research group, STORMS. We used realizations of a benchmark resevouir model "OLYMPUS" as models to forecast production.
  -	We associated weights to each model and tested different optimization alogirthms to minimize a developed loss function.
+ -	Particle Swarm optimization and others Bio-Inspired optimization algorithms.
  -	This strategy was validated with an average prediction error below 5%;
 
 
