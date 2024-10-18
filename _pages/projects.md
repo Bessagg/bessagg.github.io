@@ -52,7 +52,7 @@ redirect_from:
 
 ### App Video  
 <p align="center">
-  <video width="800" controls>
+  <video height="400" controls>
     <source src="https://github.com/Bessagg/academicpages.github.io/blob/master/_projects/detection_video.mp4?raw=true" 
             type="video/mp4">
     Your browser does not support the video tag.
