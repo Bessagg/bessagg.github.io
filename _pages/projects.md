@@ -43,12 +43,12 @@ redirect_from:
     <td align="center">
       <img src="https://github.com/Bessagg/academicpages.github.io/blob/master/_projects/detection_3.jpeg?raw=true" 
            alt="detection_3" height="300"/>
-      <div><b>(d)</b> - Great results with a light panel.</div> <!-- Placeholder for description -->
+      <div><b>(d)</b> - Great results using AI with a light panel.</div> <!-- Placeholder for description -->
     </td>
     <td align="center">
       <img src="https://github.com/Bessagg/academicpages.github.io/blob/master/_projects/detection_4.jpeg?raw=true" 
            alt="detection_4" height="300"/>
-      <div><b>(e)</b> - Achieved great results in natural light conditions.</div> <!-- Placeholder for description -->
+      <div><b>(e)</b> - Achieved great results with AI in normal light conditions.</div> <!-- Placeholder for description -->
     </td>
     <td align="center">
       <img src="https://github.com/Bessagg/academicpages.github.io/blob/master/_projects/detection_5.jpeg?raw=true" 
