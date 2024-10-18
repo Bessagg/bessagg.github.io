@@ -36,7 +36,7 @@ redirect_from:
     <td align="center">
       <img src="https://github.com/Bessagg/academicpages.github.io/blob/master/_projects/detection_01.jpeg?raw=true" 
            alt="detection_01" height="300"/>
-      <div><b>(c)</b> - Transformations in opencv to deal with the lack of contrast</div> <!-- Placeholder for description -->
+      <div><b>(c)</b> - Transformations in opencv to deal with the lack of contrast.</div> <!-- Placeholder for description -->
     </td>
   </tr>
   <tr>
