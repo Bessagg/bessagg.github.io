@@ -31,7 +31,7 @@ redirect_from:
     <td align="center">
       <img src="https://github.com/Bessagg/academicpages.github.io/blob/master/_projects/detection_1.jpeg?raw=true" 
            alt="detection_1" height="300"/>
-      <div><b>(b)</b> - Initial setup to control ligh conditions and detections with opencv.</div> <!-- Placeholder for description -->
+      <div><b>(b)</b> - Initial setup to control light conditions and detections with opencv.</div> <!-- Placeholder for description -->
     </td>
     <td align="center">
       <img src="https://github.com/Bessagg/academicpages.github.io/blob/master/_projects/detection_01.jpeg?raw=true" 
